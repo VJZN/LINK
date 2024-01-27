@@ -1,0 +1,7 @@
+echo "# LINK" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/VJZN/www.linkedin.com/in/virgilio-zanchetta-37469121a/LINK.git
+ git push - sua origem principal
